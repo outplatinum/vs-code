@@ -7,7 +7,7 @@
     <title>Meu portfólio</title>
 </head>
 <body>
-    <img src="img/avatar-perfil.png" alt="avatar da Fernanda" srcset="">
+    <img src="img/avatar-perfil.png" alt="" srcset="">
     <p>Eu sou Vinicius</p>
     <h1>Eu Aprendo Programação</h1>
     <p>Sou estudante do colégio silvio barros e aprendo programação por meio da matematica 2, usando HTML, CSS e JavaScript. Veja os projetos que já desenvolvi! </p>
