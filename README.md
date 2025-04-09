@@ -8,7 +8,7 @@
 </head>
 <body>
     <img src="img/avatar-perfil.png" alt="avatar da Fernanda" srcset="">
-    <p>Eu sou Fernanda_</p>
+    <p>Eu sou Vinicius_</p>
     <h1>Eu ensino Programação</h1>
     <p>Sou Engenheira de Computação e Pedagoga. Ensino pensamento computacional para estudantes do Ensino Fundamental e Médio. Ensino sobre pensamento computacional usando HTML, CSS e JavaScript. Veja os projetos que já desenvolvi! </p>
     <p>Minhas habilidades</p>
