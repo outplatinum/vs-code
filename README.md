@@ -10,7 +10,7 @@
     <img src="https://media.santosfc.com.br/wp-content/uploads/2022/04/cropped-Asset-2.png" alt="" srcset="" height="100">
     <p>Eu sou Vinicius</p>
     <h1>Eu Aprendo Programação</h1>
-    <p>Sou estudante do colégio silvio barros e aprendo programação por meio da matematica 2, usando HTML, CSS e JavaScript. Veja os projetos que já desenvolvi! </p>
+    <p>Sou estudante do colégio silvio barros e aprendo programação por meio da matematica 2, usando HTML, CSS e JavaScript. </p>
     <p>Minhas habilidades</p>
     <div>
             <p>HTML</p>
